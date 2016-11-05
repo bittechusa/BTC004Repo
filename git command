@@ -1,0 +1,8 @@
+hi this is git class:
+How to add a file or project int git server:
+1.go to repo label
+2.paste yr file or project into repo
+3.git add -A
+4.git commit -m"any comment"
+5.git pull(if branch then)origin branch name
+6.git push origin branch name
